@@ -38,7 +38,7 @@ nav a:hover {
 
 
 .rotate {
-  transition: transform 300ms ease-in-out;
+  transition: transform 500ms ease-in-out;
 }
 
 .rotate360 {
